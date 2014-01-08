@@ -1,6 +1,11 @@
 {
     "media": [
         {
+            "defName": "COMPILED_CODE",
+            "type": "raw",
+            "file": "data/watchface.pbw"
+        },
+        {
             "defName": "RESOURCE_ID_IMAGE_MENU_ICON",
             "type": "png",
             "file": "images/menu_icon_fuzzy_watch.png"
